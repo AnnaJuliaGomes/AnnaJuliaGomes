@@ -1,5 +1,14 @@
-<h2 align="left">Hello word 👋!
-  My name is Anna Julia and I started programming  </h2>
+<br clear="both">
+
+<p align="center">Hi world, I'm Anna and I started programming ;)</p>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdmemR3NGxsMThhcnZxeDVvdmxuOHNkNGN3azFtcDlubTl1bnVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+
+###
+
+![](https://github-readme-stats.vercel.app/api?username=AnnaJuliaGomes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ###
 
@@ -13,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
+
 ###
 
 <div align="left">
@@ -23,3 +33,7 @@
 </div>
 
 ###
+
+<img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1xMXY1bDdmYXdxN3hlaXptcWtkN3d6d2VwZGUxcjB2N3JybWMyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif"  />
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
